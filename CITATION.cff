@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Practica 3- Sistema cardiovascular
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Angel Eduardo
+    family-names: Juarez Salzar
+    email: L22210417@tectijuana.edu.mx
+    affiliation: Tecnologico Ncional de Mexico
+  - given-names: Celia Lizette
+    family-names: Hernandez Rfuiz
+    email: L22210415@tectijuana.edu.mx
+    affiliation: Tecnologico nacional de Mexico
+repository-code: 'https://github.com/JuarezAng/MSF-Practica3'
+keywords:
+  - CONTROLADOR PID
+  - Cardiovascular
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-05-02'
