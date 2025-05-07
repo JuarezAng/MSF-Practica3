@@ -15,9 +15,8 @@ Diseñar un controlador que permita formular un protocolo de tratamiento para qu
 2. Determinar el error en estado estacionario
 3. Construir el diagrama de bloques 
 4. Diseñar el controlador con simulink utilizando el bloque PID y la herramienta tune para sintonizar los valores optimos para cada una de las ganancias
-5. Elaborar el diagrama biologico del sistema 
-6.Elaborar el diagrama biologico del sistema con Biorender.com
-7. Discutir los resultados obtenidos en la experimentacion in silico y elaborar el reoprte de la practica
+5.Elaborar el diagrama biologico del sistema con Biorender.com
+6. Discutir los resultados obtenidos en la experimentacion in silico y elaborar el reoprte de la practica
    
 ## Docente
 Dr. Paul A. Valle
